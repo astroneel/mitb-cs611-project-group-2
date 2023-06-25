@@ -1,0 +1,4 @@
+pandas==1.5.3
+Pillow==9.4.0
+streamlit==1.20.0
+sagemaker==2.159.0
